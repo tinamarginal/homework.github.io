@@ -1,0 +1,30 @@
+*{
+	margin:0px auto;
+}
+body{
+	background-color: #F8F9AE;
+}
+#fur{
+	background: white;
+	margin: 1px 187px 1px;
+	border: solid;
+	border-radius: 10px;
+	text-align: center;
+	color: #6B3433;
+}
+#h1{
+	font-size: 30px;
+	font-style: oblique;
+	font-family: 標楷體;
+	text-decoration: underline;
+}
+#h2{
+	font-family: 微軟正黑體;
+	font-size: 20px;
+}
+#mig{
+	text-align: center;
+}
+#tak{
+	text-align: center;
+}
